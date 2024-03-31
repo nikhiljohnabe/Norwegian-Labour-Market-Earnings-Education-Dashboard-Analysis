@@ -42,19 +42,17 @@ Analyze vacancies and earnings based on various industries for 2022 and 2023.
 
 **Analysis Summary:** 
 
-Analysis Summary:
+1. We see unemployment rate surges every 8 to 13 years in Norway due to different factors. Once it is compared to other factors such as changes in interest rates, inflation, and other economic factors, we can see that it is highly correlated.
 
-1.We see unemployment rate surges every 8 to 13 years in Norway due to different factors. Once it is compared to other factors such as changes in interest rates, inflation, and other economic factors, we can see that it is highly correlated.
+2. Unemployment rates are high in regions such as Oslo and Viken as they are economic hubs and have higher populations than other regions.
 
-2.Unemployment rates are high in regions such as Oslo and Viken as they are economic hubs and have higher populations than other regions.
+3. The unemployment rate is higher among the 25 to 54 age group, which could also imply that there are better policies for hiring younger talent and that education is more relevant to a growing economy like Norway's.
 
-3.The unemployment rate is higher among the 25 to 54 age group, which could also imply that there are better policies for hiring younger talent and that education is more relevant to a growing economy like Norway's.
+4. It is seen that the highest enrollment is in Health, Welfare, and Sport. This could directly be related to demand in such roles, as seen in the vacancies graph, as Human Health and Social Services have the highest vacant roles within different industries.
 
-4.It is seen that the highest enrollment is in Health, Welfare, and Sport. This could directly be related to demand in such roles, as seen in the vacancies graph, as Human Health and Social Services have the highest vacant roles within different industries.
+5. Although there is high demand in Human Health and Social Services, the profiles are among the least paid among other industries, while mining, quarrying, finance, and insurance are the most paid.
 
-5.Although there is high demand in Human Health and Social Services, the profiles are among the least paid among other industries, while mining, quarrying, finance, and insurance are the most paid.
-
-Please Note:
+**Please Note:**
 
 1."Diff%" and "%Diff" are the same. They calculate the percentage change from previous years and are calculated on absolute numbers. Meanwhile, the percentage depicted in tables and charts is the percentage of the grand total of the column. For example, Unemployment by Region has 46.1% in 2022 in Oslo and Viken region, which is the percentage of people unemployed compared to the total across all regions. "Diff%" is calculated as (177-171)/171 = 3.5 percent. [171 - total unemployed in thousands in 2022, 177 - total unemployed in thousands in 2023]
 
